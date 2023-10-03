@@ -132,6 +132,25 @@ Public Law, Russian (Language Level: A1)</li>
 
 <div>
 <h2><em>Work Experience</em></h2>
+<p><strong>Oct. 2022 - Jan. 2023: Charlotte Simone</strong></p>
+<p>Role: Intern</p>
+<ul>
+<li>Helped with photoshoots, created content for social media, packaged product (operations management), negotiated contracts with fabric suppliers and arranged deliveries & returns</li>
+</ul>
+<p><strong>Dec. 2021 - June 2022: INSTADRIVE</strong></p>
+<p>Role: Part-Time Strategic Research Analyst</p>
+<ul>
+<li>Worked remotely from London</li>
+<li>Conducted research on electric car market in multiple European countries to prepare for market entry</li>
+<li>Collected and analysed second-hand EV market data to help find solution during chip shortage</li>
+</ul>
+<p><strong>Mar. 2021 - Aug. 2021: INSTADRIVE</strong></p>
+<p>Role: Full-Time Intern</p>
+<ul>
+<li>Market research for entry into the UK</li>
+<li>Translated website from German to English</li>
+<li>Wrote blogs for UK website</li>
+</ul>
 <p><strong>Feb. 2020 - June 2020: The Raven</strong></p>
 <p>Role: Bar Staff</p>
 <ul>
@@ -167,8 +186,8 @@ library.</li>
 </div>
 
 <div>
-<h2><em>Certificates & Specializations</em></h2>
-<p><strong>AWS Fundamentals Specialization</strong></p>
+<h2><em>Certificates & Specialisations</em></h2>
+<p><strong>AWS Fundamentals Specialisation</strong></p>
 <p>Coursera
 <br>
 Issue Date: Sept. 2020</p>
