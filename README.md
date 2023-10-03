@@ -110,7 +110,9 @@ account-created.html:
 <ul>
 <li>First-year modules: Accounting and Finance for Business. Analytics for Decision Making, Behaviour in Organisations, Global Economies and the Business Environment, Marketing for Business Managers, German (Language Level: A2)</li>
 </ul>
+<ul>
 <li>Second-year modules: Corporate Governance, Management and Leadership for Business, Money Banking & Financial Markets, Supply Chain, Operations Management & Digital Business, Sustainable City Economies, Web-enabled Business</li>
+</ul>
 <ul>
 <li>Third-year modules: Contemporary Issues in Business Management, Employability and Leadership, Forecasting for Managers, International Financial Management, International Trade, Strategic Management</li>
 </ul>
