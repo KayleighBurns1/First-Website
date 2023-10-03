@@ -105,11 +105,16 @@ account-created.html:
 
 <div>
 <h2><em>Education</em></h2>
+<p><strong>Sept. 2021 - Present: University of Westminster</strong></p>
+<p>BA (Hons) Business Management</p>
+<ul>
+<li>First-year modules: Accounting and Finance for Business. Analytics for Decision Making, Behaviour in Organisations, Global Economies and the Business Environment, Marketing for Business Managers, German (Language Level: A2)</li>
+</ul>
 <p><strong>Sept. 2019 - June 2020: University of Westminster</strong></p>
 <p>Law LLB Honours</p>
 <ul>
 <li>First-year modules: Contract Law, Tort Law, Law: Policy & Practice, Criminal Law,
-Public Law, Russian (Language Level: A2)</li>
+Public Law, Russian (Language Level: A1)</li>
 </ul>
 <p><strong>Jan. 2016 - June 2019: Earl Haig Secondary School</strong></p>
 <p>A-Level (Canadian High School Diploma)</p>
