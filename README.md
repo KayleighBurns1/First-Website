@@ -98,7 +98,7 @@ account-created.html:
 
 <div>
 <h1>Kayleigh Charlotte Burns</h1>
-<p>Address: Stuckgasse 2, 1070 Vienna, Austria<p>
+<p>Address: W13 9TQ, London<p>
 <p>Email: <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=kayleigh.charlotteburns@gmail.com">kayleigh.charlotteburns@gmail.com</a> / Tel.:+44 7432 230246</p>
 <p>Linkedin: <a href="https://www.linkedin.com/in/kayleigh-burns-369aa8182/">https://www.linkedin.com/in/kayleigh-burns-369aa8182/</a></p>
 </div>
