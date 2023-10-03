@@ -153,7 +153,7 @@ Public Law, Russian (Language Level: A1)</li>
 <p><strong>Feb. 2020 - June 2020: The Raven</strong></p>
 <p>Role: Bar Staff</p>
 <ul>
-<li>Greeted customers, served food and drinks to customers, cleaned tables and locked up.</li>
+<li>Greeted customers, served food and drinks to customers, cleaned tables and locked up</li>
 </ul>
 <p><strong>Sept. 2019 - June 2020: Law School Course Representative</strong></p>
 <p>Role: Course Representative</p>
