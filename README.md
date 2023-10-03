@@ -131,6 +131,21 @@ Public Law, Russian (Language Level: A1)</li>
 </div>
 
 <div>
+<h2><em>Work Experience</em></h2>
+<p><strong>Feb. 2020 - June 2020: The Raven</strong></p>
+<p>Role: Bar Staff</p>
+<ul>
+<li>Greeted customers, served food and drinks to customers, cleaned tables and locked up.</li>
+</ul>
+<p><strong>Sept. 2019 - June 2020: Law School Course Representative</strong></p>
+<p>Role: Course Representative</p>
+<ul>
+<li>Elected as Course Representative at Westminster Law School due to my leadership skills,
+teamwork and ability to communicate well and efficiently.</li>
+</ul>
+</div>
+
+<div>
 <h2><em>Volunteering</em></h2>
 <p><strong>Sept. 2019: Ealing Council (London Borough of Ealing)</strong></p>
 <p>Role: Community Volunteer</p>
@@ -148,21 +163,6 @@ library.</li>
 <p>Role: Fundraising Volunteer</p>
 <ul>
 <li>Came up with fundraising ideas and implemented them.</li>
-</ul>
-</div>
-
-<div>
-<h2><em>Work Experience</em></h2>
-<p><strong>Feb. 2020 - June 2020: The Raven</strong></p>
-<p>Role: Bar Staff</p>
-<ul>
-<li>Greeted customers, served food and drinks to customers, cleaned tables and locked up.</li>
-</ul>
-<p><strong>Sept. 2019 - June 2020: Law School Course Representative</strong></p>
-<p>Role: Course Representative</p>
-<ul>
-<li>Elected as Course Representative at Westminster Law School due to my leadership skills,
-teamwork and ability to communicate well and efficiently.</li>
 </ul>
 </div>
 
