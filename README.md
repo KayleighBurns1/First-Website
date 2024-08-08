@@ -113,7 +113,7 @@ account-created.html:
 <li>Second-year modules: Corporate Governance, Management and Leadership for Business, Money Banking & Financial Markets, Supply Chain, Operations Management & Digital Business, Sustainable City Economies, Web-enabled Business</li>
 </ul>
 <ul>
-<li>Third-year modules: Contemporary Issues in Business Management, Employability and Leadership, Forecasting for Managers, International Financial Management, International Trade, Strategic Management</li>
+<li>Third-year modules: Contemporary Issues in Business Management, Employability and Leadership, Forecasting for Managers (Statistics), International Financial Management, International Trade, Strategic Management</li>
 </ul>
 <p><strong>Sept. 2019 - June 2020: University of Westminster</strong></p>
 <p>Law LLB Honours</p>
@@ -131,10 +131,28 @@ Public Law, Russian (Language Level: A1)</li>
 
 <div>
 <h2><em>Work Experience</em></h2>
+<p><strong>Feb. 2024 - Present: Fuse Energy</strong></p>
+<p>Role: Operations</p>
+<ul>
+<li>Created dashboard using SQL to monitor the commission rate of smart meters in the Arqiva & Telefonica telecommunication zones, revealing a significant discrepancy in one zone (~70%) compared to the reported ~99%.</li>
+<li>Created monitoring dashboard for Uswitch partnership to make sure invoices aligned with the data received.</li>
+<li>Conducted interviews for range of roles, such as, Strategy & Operations Manager, Product Designer, and Operations Intern.</li>
+<li>Hired 10 out of 31 new employees.</li>
+<li>Reported directly to the CEO and COO.</li>
+</ul>
+<p><strong>Oct. 2023 - Feb. 2024: Fuse Energy</strong></p>
+<p>Role: Operations Intern</p>
+<ul>
+<li>In my own time, I proactively found ways to list our company for free on price comparison websites, such as, MoneySuperMarket & USwitch, increasing our online visibility.</li>
+<li>Conducted land searches using QGIS to identify suitable locations for building solar farms.</li>
+<li>Managed and trained new hires.</li>
+<li>Conducted analysis on customers' electric meter data to find potential breaks which could affect billing.</li>
+<li>Averaged around 60 work hours a week - this is excluding my study time.</li>
+</ul>
 <p><strong>Oct. 2022 - Jan. 2023: Charlotte Simone</strong></p>
 <p>Role: Intern</p>
 <ul>
-<li>Helped with photoshoots, created content for social media, packaged product (operations management), negotiated contracts with fabric suppliers and arranged deliveries & returns</li>
+<li>Helped with photoshoots, created content for social media, packaged product (operations management), negotiated contracts with fabric suppliers and arranged deliveries & returns.</li>
 </ul>
 <p><strong>Dec. 2021 - June 2022: INSTADRIVE</strong></p>
 <p>Role: Part-Time Strategic Research Analyst</p>
@@ -218,8 +236,8 @@ Issue Date: Nov. 2018</p>
 
 <div>
 <h2><em>Additional Information</em></h2>
-<p><strong>Languages: </strong>English (Native), German (Elementary Proficiency), Russian (Beginner)</p>
-<p><strong>IT skills: </strong>Excel, PowerPoint, Word, Google Drive, Python, JavaScript, HTML;</p>
+<p><strong>Languages: </strong>English (Native), German (Elementary Proficiency, A2), Russian (Beginner)</p>
+<p><strong>IT skills: </strong>Microsoft Office, Google Drive, Python, SQL, HTML, CSS, Photoshop, Jira;</p>
 <p><strong>Societies & Groups: </strong>Bar Society, ELSA Society, Law Society, History Society, WWF,
 Philosophy Society</p>
 </div>
